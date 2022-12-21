@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[HRMSPortalModules.openHRMSPortal()]]>
+    </line>
+    <line>
+      <![CDATA[HRMSPortalModules.login()]]>
+    </line>
+    <line>
+      <![CDATA[Closing web browser......................]]>
+    </line>
+    <line>
+      <![CDATA[HRMSPortalModules.openHRMSPortal()]]>
+    </line>
+    <line>
+      <![CDATA[HRMSPortalModules.login()]]>
+    </line>
+    <line>
+      <![CDATA[HRMSPortalModules.openFrame()]]>
+    </line>
+    <line>
+      <![CDATA[HRMSPortalModules.clickAdd()]]>
+    </line>
+    <line>
+      <![CDATA[HRMSPortalModules.registerEmployee()]]>
+    </line>
+    <line>
+      <![CDATA[HRMSPortalModules.clickBack()]]>
+    </line>
+    <line>
+      <![CDATA[HRMSPortalModules.closeFrame()]]>
+    </line>
+    <line>
+      <![CDATA[Closing web browser......................]]>
+    </line>
+    <line>
+      <![CDATA[HRMSPortalModules.openHRMSPortal()]]>
+    </line>
+    <line>
+      <![CDATA[HRMSPortalModules.getTitleOfPage()]]>
+    </line>
+    <line>
+      <![CDATA[OrangeHRM - New Level of HR Management]]>
+    </line>
+    <line>
+      <![CDATA[HRMSPortalModules.login()]]>
+    </line>
+    <line>
+      <![CDATA[HRMSPortalModules.openFrame()]]>
+    </line>
+    <line>
+      <![CDATA[HRMSPortalModules.searchByEMPID()]]>
+    </line>
+    <line>
+      <![CDATA[HRMSPortalModules.searchFor()]]>
+    </line>
+    <line>
+      <![CDATA[HRMSPortalModules.clickSearchForEmployee()]]>
+    </line>
+    <line>
+      <![CDATA[HRMSPortalModules.closeFrame()]]>
+    </line>
+    <line>
+      <![CDATA[Closing web browser......................]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-18T19:27:50 IST" name="Suite1" finished-at="2022-12-18T19:30:58 IST" duration-ms="187189">
+    <groups>
+    </groups>
+    <test started-at="2022-12-18T19:27:50 IST" name="Nopackage" finished-at="2022-12-18T19:30:58 IST" duration-ms="187189">
+      <class name="com.hrms.test.DeleteEmployeeTest">
+        <test-method signature="delete()[pri:0, instance:com.hrms.test.DeleteEmployeeTest@5e600dd5]" started-at="2022-12-18T19:29:27 IST" name="delete" finished-at="2022-12-18T19:30:58 IST" duration-ms="90513" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[HRMSPortalModules.openHRMSPortal()]]>
+            </line>
+            <line>
+              <![CDATA[HRMSPortalModules.getTitleOfPage()]]>
+            </line>
+            <line>
+              <![CDATA[OrangeHRM - New Level of HR Management]]>
+            </line>
+            <line>
+              <![CDATA[HRMSPortalModules.login()]]>
+            </line>
+            <line>
+              <![CDATA[HRMSPortalModules.openFrame()]]>
+            </line>
+            <line>
+              <![CDATA[HRMSPortalModules.searchByEMPID()]]>
+            </line>
+            <line>
+              <![CDATA[HRMSPortalModules.searchFor()]]>
+            </line>
+            <line>
+              <![CDATA[HRMSPortalModules.clickSearchForEmployee()]]>
+            </line>
+            <line>
+              <![CDATA[HRMSPortalModules.closeFrame()]]>
+            </line>
+            <line>
+              <![CDATA[Closing web browser......................]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- delete -->
+      </class> <!-- com.hrms.test.DeleteEmployeeTest -->
+      <class name="com.hrms.test.RegisterEmployeeTest">
+        <test-method signature="register()[pri:0, instance:com.hrms.test.RegisterEmployeeTest@130c12b7]" started-at="2022-12-18T19:28:15 IST" name="register" finished-at="2022-12-18T19:29:27 IST" duration-ms="72144" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[HRMSPortalModules.openHRMSPortal()]]>
+            </line>
+            <line>
+              <![CDATA[HRMSPortalModules.login()]]>
+            </line>
+            <line>
+              <![CDATA[HRMSPortalModules.openFrame()]]>
+            </line>
+            <line>
+              <![CDATA[HRMSPortalModules.clickAdd()]]>
+            </line>
+            <line>
+              <![CDATA[HRMSPortalModules.registerEmployee()]]>
+            </line>
+            <line>
+              <![CDATA[HRMSPortalModules.clickBack()]]>
+            </line>
+            <line>
+              <![CDATA[HRMSPortalModules.closeFrame()]]>
+            </line>
+            <line>
+              <![CDATA[Closing web browser......................]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- register -->
+      </class> <!-- com.hrms.test.RegisterEmployeeTest -->
+      <class name="com.hrms.test.LoginTest">
+        <test-method signature="login()[pri:0, instance:com.hrms.test.LoginTest@b9b00e0]" started-at="2022-12-18T19:27:51 IST" name="login" finished-at="2022-12-18T19:28:15 IST" duration-ms="24407" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[HRMSPortalModules.openHRMSPortal()]]>
+            </line>
+            <line>
+              <![CDATA[HRMSPortalModules.login()]]>
+            </line>
+            <line>
+              <![CDATA[Closing web browser......................]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.hrms.test.LoginTest -->
+    </test> <!-- Nopackage -->
+  </suite> <!-- Suite1 -->
+</testng-results>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="Suite1" verbose="1" >
+  <test name="Nopackage" >
+    <!-- <packages>
+       <package name="com.hrms.test" />
+    </packages> -->
+    <classes>
+       <class name="com.hrms.test.LoginTest" />
+       <class name="com.hrms.test.RegisterEmployeeTest" />
+       <class name="com.hrms.test.DeleteEmployeeTest" />
+    </classes>
+    
+  </test>
+  </suite>
+
+
