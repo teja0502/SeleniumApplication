@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Closing web browser.]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-20T13:23:11 IST" name="Default suite" finished-at="2022-12-20T13:23:58 IST" duration-ms="46448">
+    <groups>
+    </groups>
+    <test started-at="2022-12-20T13:23:11 IST" name="Default test" finished-at="2022-12-20T13:23:58 IST" duration-ms="46448">
+      <class name="com.hrms.test.LoginTest">
+        <test-method signature="login()[pri:0, instance:com.hrms.test.LoginTest@48aca48b]" started-at="2022-12-20T13:23:12 IST" name="login" finished-at="2022-12-20T13:23:58 IST" duration-ms="46343" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing web browser.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.hrms.test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
